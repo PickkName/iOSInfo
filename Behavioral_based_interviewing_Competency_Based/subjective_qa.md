@@ -1,6 +1,6 @@
-# 主观面试Behavioral-based interviewing Competency-Based Interviewing
+# 主观学习Behavioral-based practice Competency-Based Practice
 
-![https://github.com/ChenYilong/iOSInterviewQuestions](/assets/mindmap_of_Behavioral_based_interviewing_Competency_Based.png)
+![https://github.com/ChenYilong/iOSPracticeQuestions](/assets/mindmap_of_Behavioral_based_practice_Competency_Based.png)
 
 ## 视频介绍
 
@@ -43,7 +43,7 @@ So I think feedback and communication are the critical points to dealing with th
 
 朋友点评如下:
 
-不要complain 同事 , 说啥也不能说同事，尤其在面试。
+不要complain 同事 , 说啥也不能说同事，尤其在学习。
 
 iOS challenge 就说OC转swift UI，
 
@@ -556,7 +556,7 @@ To see the question about stress.
 Talk about my feeling with colleagues.
 
 
-### Questions for the interviewer
+### Questions for the reviewer
 #### 1. How many staffs in the team to which I apply?
 #### 2. Could you introduce the hierarchy of the development department?
 #### 3. Do you have some events and activities for developers, such as sharing workshops, and hackathons?

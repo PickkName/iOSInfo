@@ -1,12 +1,12 @@
 ## iOS Programming Challenge: Interactive Post Viewer
 
-ToDo：To Align with iOSInterviewQuestions/Swift/MVVMDemo
+ToDo：To Align with iOSPracticeQuestions/Swift/MVVMDemo
 
 
-Source Code: [SwiftUI Demo]( https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/SwiftUI/SwiftUIDemo "") 
+Source Code: [SwiftUI Demo]( https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/SwiftUI/SwiftUIDemo "") 
 
 
-<p align="center"><a href="https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/SwiftUI/SwiftUIDemo"><img src="banner.png"></a></p>
+<p align="center"><a href="https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/SwiftUI/SwiftUIDemo"><img src="banner.png"></a></p>
 
 
 **Description:**
@@ -66,5 +66,5 @@ Search functionality on the posts list and comments list.
 
 ## SwiftUI 
 
-<p align="center"><a href="https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/SwiftUI/SwiftUIDemo"><img src="https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/assets/SwiftUI_vs_UIKit_Lifecycle_Methods_Difference.jpg"></a></p>
+<p align="center"><a href="https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/SwiftUI/SwiftUIDemo"><img src="https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/assets/SwiftUI_vs_UIKit_Lifecycle_Methods_Difference.jpg"></a></p>
 

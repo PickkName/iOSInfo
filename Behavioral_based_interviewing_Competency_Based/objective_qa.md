@@ -1,7 +1,7 @@
-# 自我介绍类型Behavioral-based interviewing Competency-Based Interviewing
+# 自我介绍类型Behavioral-based practice Competency-Based Practice
 
 
-![https://github.com/ChenYilong/iOSInterviewQuestions](/assets/mindmap_of_Behavioral_based_interviewing_Competency_Based.png)
+![https://github.com/ChenYilong/iOSPracticeQuestions](/assets/mindmap_of_Behavioral_based_practice_Competency_Based.png)
 
 
 
@@ -12,7 +12,7 @@
 ## 正文
 
 
-## Behaviour (HR interview)
+## Behaviour (HR practice)
 ### About Position & Company
 #### 1. Why did you apply for this position? What are you interested in this position?
 According to the company's business and tech stack to talk about. 

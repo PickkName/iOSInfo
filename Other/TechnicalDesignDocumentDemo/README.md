@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Your task is to produce a brief design doc for a customer-facing mobile app called “Hungry Hippo.” The purpose is to surface nearby restaurants in an app where a user can order food for pick-up. There are well known contenders in this area like Uber Eats, Zomato, and Menulog. The aim is not to copy these and become an expert in the online restaurant business, but instead to propose a design for a solution that shows an understanding of the tradeoffs. You can propose any technology stack that you like. Make sure your design doc justifies your choices and be prepared to explain your decisions in an interview.Spend no more than an evening (max 3 or 4 hours) producing this document. Please limit the document to a maximum of three pages.
+Your task is to produce a brief design doc for a customer-facing mobile app called “Hungry Hippo.” The purpose is to surface nearby restaurants in an app where a user can order food for pick-up. There are well known contenders in this area like Uber Eats, Zomato, and Menulog. The aim is not to copy these and become an expert in the online restaurant business, but instead to propose a design for a solution that shows an understanding of the tradeoffs. You can propose any technology stack that you like. Make sure your design doc justifies your choices and be prepared to explain your decisions in an practice.Spend no more than an evening (max 3 or 4 hours) producing this document. Please limit the document to a maximum of three pages.
 
 Requirements
 The app has the following requirements:

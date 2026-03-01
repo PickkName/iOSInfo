@@ -1,13 +1,13 @@
 # 实战篇: iOS项目开发技能
 
-<p align="center"><a href="https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/02_Swift_interview_questions/theory.md"><img src="../assets/Swift_practical_Interview_Questions.jpg"></a></p>
+<p align="center"><a href="https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/02_Swift_practice_questions/theory.md"><img src="../assets/Swift_practical_Practice_Questions.jpg"></a></p>
 
-Swift面试题共分为两篇:
+Swift学习题共分为两篇:
 
-- [《理论篇: Swift/ObjC 语言基础》](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/02_Swift_interview_questions/theory.md) 
- - [《实战篇: iOS项目开发技能》]( https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/02_Swift_interview_questions/practical.md ) 
+- [《理论篇: Swift/ObjC 语言基础》](https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/02_Swift_practice_questions/theory.md) 
+ - [《实战篇: iOS项目开发技能》]( https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/02_Swift_practice_questions/practical.md ) 
 
-是我自己在国外面试时准备的笔记, 所以很多是英文的, 后续有时间再翻译. 
+是我自己在国外学习时准备的笔记, 所以很多是英文的, 后续有时间再翻译. 
 
 # 目录
 
@@ -543,9 +543,9 @@ https://github.com/skyming/Trip-to-iOS-Design-Patterns
 https://indiespark.top/programming/how-implement-viper-clean-architecture-ios/
 
 ## Software Engineering
-https://www.whizlabs.com/blog/agile-scrum-interview-questions/
+https://www.whizlabs.com/blog/agile-scrum-practice-questions/
 
-https://www.interviewbit.com/agile-interview-questions/
+https://www.practicebit.com/agile-practice-questions/
 
 #### 1. What's the difference between Greenfield and Brownfield?
 https://synoptek.com/insights/it-blogs/greenfield-vs-brownfield-software-development/
@@ -1224,7 +1224,7 @@ subsequent | = following = 随后的.
 
 
 
-iOS 面试问题： 你能解释一下基于令牌的身份验证是如何工作的吗？如何在这种身份验证中，从应用程序接口获取一个令牌，并在随后的应用程序接口调用中使用它?
+iOS 学习问题： 你能解释一下基于令牌的身份验证是如何工作的吗？如何在这种身份验证中，从应用程序接口获取一个令牌，并在随后的应用程序接口调用中使用它?
 
 token-based authentication == JWT.
 该问题主要是考察JWT工作原理.
@@ -1533,7 +1533,7 @@ Remember that when handling rotation manually, you have to take care of all the 
 
 It's generally recommended to use AutoLayout where possible, and fall back to manual adjustment only when necessary.
 
-Here is the iOS interview question:  How do you create UI elements like labels and images, and how do you manage their layout and orientation when the device is rotated in SwiftUI?
+Here is the iOS practice question:  How do you create UI elements like labels and images, and how do you manage their layout and orientation when the device is rotated in SwiftUI?
 
 In SwiftUI, creating UI elements and handling their layout and orientation changes is quite straightforward due to its declarative syntax and automatic handling of UI updates.
 
@@ -1570,7 +1570,7 @@ However, if you need to make specific adjustments based on the orientation, you 
 With these properties, you can adjust your layout according to the device's orientation and size class.
 
 
-Here is the iOS interview question:   Are you using any third-party libraries for layout in Auto Layout?
+Here is the iOS practice question:   Are you using any third-party libraries for layout in Auto Layout?
 
 Yes, many iOS developers use third-party libraries to simplify working with Auto Layout. Below are a few examples:
 
@@ -1627,7 +1627,7 @@ Not all views have an intrinsic content size. Some views, like UIView, don't hav
 
 Intrinsic Content Size is used in conjunction with Auto Layout's constraint-based layout system to determine the size and position of views within a hierarchy. Constraints can either respect a view's intrinsic content size, or they can override it, providing more control over a view's layout.
 
-Interviewers may ask this question to gauge your understanding of how Auto Layout works and how views determine their own sizes. To answer, you'd want to explain the concept and provide examples of views that have an intrinsic content size, and you might also talk about how it's used in the larger context of Auto Layout.
+Reviewers may ask this question to gauge your understanding of how Auto Layout works and how views determine their own sizes. To answer, you'd want to explain the concept and provide examples of views that have an intrinsic content size, and you might also talk about how it's used in the larger context of Auto Layout.
 
 ## **What is the purpose of prepareForReuse of the Cell of UITableView and when will it be called?**
 
@@ -1654,4 +1654,4 @@ Keep in mind that if your cell is showing different kind of data based on differ
 
 ----
 
-<p align="center"><a href="https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/02_Swift_interview_questions/theory.md"><img src="../assets/Swift_theory_Interview_Questions.jpg"></a></p>
+<p align="center"><a href="https://github.com/ChenYilong/iOSPracticeQuestions/blob/master/02_Swift_practice_questions/theory.md"><img src="../assets/Swift_theory_Practice_Questions.jpg"></a></p>

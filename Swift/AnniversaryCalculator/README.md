@@ -1,6 +1,6 @@
 # iOS Tech Assessment
 
-The Tech Interview question :
+The Tech Practice question :
 
 You're welcome to use any programming language (preferably Swift) or tools (preferably Xcode) you wish and you may look up any online resources or references as needed. Unit tests are welcome but optional.
 

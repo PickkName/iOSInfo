@@ -1,6 +1,6 @@
 ## 软件工程
 
-**行为面试相关：**
+**行为学习相关：**
 
 1. How do you keep up to date with your Swift and iOS knowledge?
 
@@ -176,6 +176,6 @@ https://medium.com/@tunkhine126/red-green-refactor-42b5b643b506
 
 
 
-### Questions for the interviewer
+### Questions for the reviewer
 #### 1. How many percent of the automated test cover your project?
 #### 2. How often is the review period?
